@@ -19,13 +19,13 @@ public class Client {
 //        BMWModel bmwModel = (BMWModel) bmwBuilder.getCarModel();
 //        bmwModel.run();
         Director director = new Director();
-        for(int i=0;i<10000;i++){
+        for(int i=0;i<5;i++){
             director.getABenzModel().run();
         }
-        for(int i=0;i<1000000;i++){
+        for(int i=0;i<10;i++){
             director.getBBenzModel().run();
         }
-        for(int i=0;i<1000000;i++){
+        for(int i=0;i<10;i++){
             director.getCBMWModel().run();
         }
     }
