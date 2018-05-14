@@ -4,3 +4,4 @@
 # Blog
 
 [气宗]设计模式之 - 工厂模式:https://blog.csdn.net/amoscxy/article/details/80038255
+[气宗]设计模式之 - 单例模式:https://blog.csdn.net/amoscxy/article/details/80311448
