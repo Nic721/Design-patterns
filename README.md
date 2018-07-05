@@ -9,3 +9,4 @@ java23种设计模式，深入理解灵活运用设计模式对于优化代码�
 |抽象工厂模式|Abstract factory model|https://blog.csdn.net/amoscxy/article/details/80876635|
 |建造者模式|Builder model|https://blog.csdn.net/amoscxy/article/details/80893383|
 |模板方法模式|Template method pattern|https://blog.csdn.net/amoscxy/article/details/80907740|
+|适配器模式|Adapter mode|https://blog.csdn.net/amoscxy/article/details/80921945|
