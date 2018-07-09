@@ -12,3 +12,4 @@ java23种设计模式，深入理解灵活运用设计模式对于优化代码�
 |适配器模式|Adapter mode|https://blog.csdn.net/amoscxy/article/details/80921945|
 |装饰模式|Decorative pattern|https://blog.csdn.net/amoscxy/article/details/80935598|
 |观察者模式|Observer mode|https://blog.csdn.net/amoscxy/article/details/80938185|
+|组合模式|Portfolio model|https://blog.csdn.net/amoscxy/article/details/80961618|
