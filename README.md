@@ -13,3 +13,5 @@ java23种设计模式，深入理解灵活运用设计模式对于优化代码�
 |装饰模式|Decorative pattern|https://blog.csdn.net/amoscxy/article/details/80935598|
 |观察者模式|Observer mode|https://blog.csdn.net/amoscxy/article/details/80938185|
 |组合模式|Portfolio model|https://blog.csdn.net/amoscxy/article/details/80961618|
+|策略模式|The strategy pattern|https://blog.csdn.net/amoscxy/article/details/80981136|
+|责任链模式|Chain of responsibility model|https://blog.csdn.net/amoscxy/article/details/80965173|
